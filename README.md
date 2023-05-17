@@ -9,8 +9,8 @@ const Antonio = {
   content management system: [WordPress, Prestashop]
 }
 ```
-You can find me at 🌍:
-- Sharing updates on <a href="https://www.linkedin.com/in/ant-mata/">LinkedIn</a> 💼
+### You can find me at 🌍:
+- <a href="https://www.linkedin.com/in/ant-mata/">LinkedIn</a> 💼
 ---
 ⭐️ From [Antonio](https://github.com/Herruzo)
 <!--
