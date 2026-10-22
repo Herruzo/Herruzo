@@ -1,5 +1,5 @@
 ### Hi, I'm Antonio 👋🙂💻
-![Antonio PNG](https://github.com/Herruzo/Herruzo/assets/87756664/5b7a8ac4-7b26-43f4-adbc-599f4758ed63)
+![Antonio PNG](https://github.com/Herruzo/Herruzo/blob/main/GitHub_README_Antonio_Mata_1280x640.jpg)
 In 2022 I graduated from the MasterD technological institute, in the Higher Course in Web Page Programming, where I have acquired skills in database manipulation, specifically in MySQL database management systems, apart from this I have received extensive knowledge in HTML, CSS, JavaScript, jQuery, PHP and Python.
 ```js
 const Herruzo = {
